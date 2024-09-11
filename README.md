@@ -1,7 +1,7 @@
-<H3>NAME: Berjin Shabeck</H3>
-<H3>REGISTER NO: 212222240018</H3>
+<H3>NAME:M.Pranathi</H3>
+<H3>REGISTER NO: 212222240064</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: </H3>
+<H3>DATE:11/9/2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim:
